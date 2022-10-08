@@ -13,10 +13,10 @@
 <div style="display: inline_block"><br>
     <a href="https://github.com/ResenDev">
     <img align="right" alt="Resende-gif"height="180" width="250" src="https://cdn.discordapp.com/attachments/868320009108193350/1028339778078396436/971-removebg-preview_1.png">
-    <img align="center"alt="Resende-html" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/> 
-    <img align="center" alt="Resende-css" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>
-    <img align="center" alt="Resende-java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
-    <img align="center" alt="Resende-mysql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>  
+    <img align="center"alt="Resende-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" > 
+    <img align="center" alt="Resende-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" >
+    <img align="center" alt="Resende-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <img align="center" alt="Resende-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">  
 </div>
 
 #
