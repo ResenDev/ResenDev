@@ -1,7 +1,7 @@
 
 <img align="center" src="https://cdn.discordapp.com/attachments/868320009108193350/1028334229496533033/Hello_world_im_rafael_resende_1.gif">
 
-*| 19y | Currently studying software development.* <img align="center" src="https://img.shields.io/github/followers/ResenDev.svg?style=social&label=Follow&maxAge=2592000">
+*| 19y | Currently studying software development.* <a href="https://github.com/ResenDev"><img align="center" src="https://img.shields.io/github/followers/ResenDev.svg?style=social&label=Follow&maxAge=2592000">
 
 
 <div>
