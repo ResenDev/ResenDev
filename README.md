@@ -1,7 +1,7 @@
 
 <img align="center" src="https://cdn.discordapp.com/attachments/868320009108193350/1028334229496533033/Hello_world_im_rafael_resende_1.gif">
 
-*| 19y | Currently studying software development.*
+*| 19y | Currently studying software development.* <img align="center" src="https://img.shields.io/github/followers/ResenDev.svg?style=social&label=Follow&maxAge=2592000">
 
 
 <div>
@@ -26,6 +26,6 @@
     <a href="https://www.linkedin.com/in/rafael-resende-b5090320b/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
     <a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     <a href="https://leetcode.com/ResenDev/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">   
-</div>
+</div><br>
 
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ResenDev/ResenDev/blob/output/github-contribution-grid-snake.svg)
