@@ -1,7 +1,7 @@
 
 <img align="center" src="https://cdn.discordapp.com/attachments/868320009108193350/1028334229496533033/Hello_world_im_rafael_resende_1.gif">
 
-*| 19y | Currently studying software development.* <a href="https://github.com/ResenDev"><img align="center" src="https://img.shields.io/github/followers/ResenDev.svg?style=social&label=Follow&maxAge=2592000"><input type="submit" name="commit" value="Follow" class="btn btn-block" title="Follow ResenDev" aria-label="Follow ResenDev" data-hydro-click="{&quot;event_type&quot;:&quot;user_profile.click&quot;,&quot;payload&quot;:{&quot;profile_user_id&quot;:82344312,&quot;target&quot;:&quot;FOLLOW_BUTTON&quot;,&quot;user_id&quot;:115368902,&quot;originating_url&quot;:&quot;https://github.com/ResenDev&quot;}}" data-hydro-click-hmac="e00d414d2f1cd5c28061ce4ea86390af4866010d1889403667cf84a8227517d2" data-disable-with="Follow">
+*| 19y | Currently studying software development.* 
 
 
 <div>
