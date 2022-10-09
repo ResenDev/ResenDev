@@ -1,10 +1,11 @@
 
-<img align="center" src="https://cdn.discordapp.com/attachments/868320009108193350/1028334229496533033/Hello_world_im_rafael_resende_1.gif">
+<a href="https://github.com/ResenDev"><img align="center" src="https://cdn.discordapp.com/attachments/868320009108193350/1028334229496533033/Hello_world_im_rafael_resende_1.gif">
 
 *| 19y | Currently studying software development.* 
 
 
 <div>
+    <a href="https://github.com/ResenDev">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ResenDev&show_icons=true&theme=github_dark">
     <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ResenDev&layout=compact&theme=github_dark"("https://github.com/ResenDev/github-readme-stats")>
 </div>
