@@ -29,7 +29,6 @@
 <div>
     <a href="https://.com/"><img src="https://img.shields.io/badge/my%20portfolio-120B08?style=for-the-badge&logo=About.me&logoColor=white">
     <a href="https://www.linkedin.com/in/rafael-resende-b5090320b/"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-    <a href="https://twitter.com/"><img src="https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
     <a href="https://leetcode.com/ResenDev/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black">   
 </div><br>
 
