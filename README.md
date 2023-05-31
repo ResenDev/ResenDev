@@ -21,9 +21,6 @@
     <img align="center" alt="Resende-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />  
     <img align="center"  alt="Resende-mongodb" height="30" width "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" /> 
 </div><br>
-    <div>
-![Snake animation](https://github.com/ResenDev/ResenDev/blob/output/github-contribution-grid-snake.svg)
-    </div>
-        
+ 
      
 
