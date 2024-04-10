@@ -1,5 +1,5 @@
 
-<a href="https://github.com/ResenDev"><img align="center" src="https://cdn.discordapp.com/attachments/868320009108193350/1028334229496533033/Hello_world_im_rafael_resende_1.gif"></a>
+<a href="https://github.com/ResenDev"></a>
 
 21y | Back-End Developer 
 <div>
@@ -11,7 +11,6 @@
 </div><br/>
         <h1>🛠️ Skills </h1>
 <div style="display: inline_block"><br>
-    <img align="right" alt="Resende-gif"height="180" width="250" src="https://cdn.discordapp.com/attachments/868320009108193350/1028339778078396436/971-removebg-preview_1.png" />  
     <img align="center"alt="Resende-html" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
     <img align="center" alt="Resende-css" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />   
     <img  align="center" alt="Resende-js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /> 
