@@ -5,7 +5,7 @@
 <div align="start">
     
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/rafael-resende-b5090320b/)
-[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](https://slack.com)
+[![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=fff)](https://resendesworkspace.slack.com/team/U070CLVMFU4)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 ## 🤔 About me
